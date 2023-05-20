@@ -279,10 +279,7 @@ class Store_data:
 FIRST_TIME_USER_LIST = [
     ("virat.kohli",),
     ("vijaykumar_ganesh",),
-    ("monikamanchanda",),
-    ("ashmishra_",),
-    ("madhubala_000",),
-    ("nishukumari06517",)
+    ("monikamanchanda",)
   ]
 
 def Main() :
