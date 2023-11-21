@@ -125,18 +125,3 @@ __userObj = # {
    # stackexchange
     https://dba.stackexchange.com/users/
 
-
-
-    # Aya nagar users list
-    [
-      'kavyachaudhary7576',
-      'sanidul__78',
-      'vijaykumar_ganesh',
-      'rohit_302_k_',
-      'sll4087582021',
-      'akash_kashyap57299',
-      'jatavmohit789'
-      'rinkuchaudhary3016',
-      ''
-
-    ]
